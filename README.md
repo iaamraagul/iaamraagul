@@ -29,7 +29,7 @@
 <a href="mailto:nraagul@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 <a href="https://www.linkedin.com/in/iaamraagul/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://github.com/iaamraagul"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="https://leetcode.com/u/iaamraagul/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+<a href="https://raagul-portfolio.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=render&logoColor=white" alt="Portfolio"></a>
 <a href="resume.pdf"><img src="https://img.shields.io/badge/Download_Resume-39D353?style=for-the-badge&logo=readme&logoColor=black" alt="Download Resume"></a>
 
 </div>
@@ -66,10 +66,6 @@ flows, and practical tools that move from idea to interface.
 <td width="42%" align="center" valign="middle">
 
 <img src="assets/coding.gif" width="100%" alt="coding motion visual">
-
-<a href="assets/about.mp4">
-  <img src="https://img.shields.io/badge/View_Full_Motion_MP4-111111?style=for-the-badge&logo=github&logoColor=39D353" alt="View full motion MP4">
-</a>
 
 </td>
 </tr>
@@ -168,14 +164,14 @@ flows, and practical tools that move from idea to interface.
 </tr>
 </table>
 
-| project | live | stack | highlight |
-|---|---|---|---|
-| **[PHANTOMTRACE-AI](https://github.com/iaamraagul/PHANTOMTRACE-AI)** | - | `Python` `AI` `Security` | Intelligent threat analysis for digital risk signals |
-| **[TrustSphere](https://github.com/iaamraagul/TrustSphere)** | [Live](https://trust-sphere-vert.vercel.app) | `TypeScript` `Angular` `Express` | Verification intelligence, RBAC, audit logs, security workflows |
-| **[Tinylink](https://github.com/iaamraagul/Tinylink)** | [Live](https://tinylink-pied-rho.vercel.app) | `Next.js` `TypeScript` `PostgreSQL` | Custom short links, analytics, and clean dashboard UX |
-| **[task-manager](https://github.com/iaamraagul/task-manager)** | [Live](https://task-manager-chi-lyart.vercel.app) | `FastAPI` `React` `Auth` | Full-stack API, authentication, and database integration |
-| **[Diabetic Retinopathy Detection](https://github.com/iaamraagul/Diabetic-Retinopathy-Disease-Detections-Using-Deep-Learning)** | - | `TensorFlow` `CNN` `Python` | Deep learning diagnosis support from retinal images |
-| **[Cancer Detection](https://github.com/iaamraagul/Cancer-Detection-using-deep-learning-)** | - | `SegFormer` `Python` `DL` | Transformer-based image segmentation for cancer detection |
+| project | stack | highlight |
+|---|---|---|
+| **[PHANTOMTRACE-AI](https://github.com/iaamraagul/PHANTOMTRACE-AI)** | `Python` `AI` `Security` | Intelligent threat analysis for digital risk signals |
+| **[TrustSphere](https://github.com/iaamraagul/TrustSphere)** | `TypeScript` `Angular` `Express` | Verification intelligence, RBAC, audit logs, security workflows |
+| **[Tinylink](https://github.com/iaamraagul/Tinylink)** | `Next.js` `TypeScript` `PostgreSQL` | Custom short links, analytics, and clean dashboard UX |
+| **[task-manager](https://github.com/iaamraagul/task-manager)** | `FastAPI` `React` `Auth` | Full-stack API, authentication, and database integration |
+| **[Diabetic Retinopathy Detection](https://github.com/iaamraagul/Diabetic-Retinopathy-Disease-Detections-Using-Deep-Learning)** | `TensorFlow` `CNN` `Python` | Deep learning diagnosis support from retinal images |
+| **[Cancer Detection](https://github.com/iaamraagul/Cancer-Detection-using-deep-learning-)** | `SegFormer` `Python` `DL` | Transformer-based image segmentation for cancer detection |
 
 ---
 
