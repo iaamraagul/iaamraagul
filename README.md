@@ -182,7 +182,11 @@ flows, and practical tools that move from idea to interface.
 <table>
 <tr>
 <td width="50%">
-  <img src="https://github-readme-stats.vercel.app/api?username=iaamraagul&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" width="100%" alt="GitHub stats">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/card-stats-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/card-stats-light.svg">
+    <img src="assets/card-stats-dark.svg" width="100%" alt="GitHub stats">
+  </picture>
 </td>
 <td width="50%">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=iaamraagul&theme=github-dark-blue&hide_border=true&ring=39D353&fire=39D353&currStreakLabel=39D353" width="100%" alt="GitHub streak">
@@ -193,7 +197,7 @@ flows, and practical tools that move from idea to interface.
 <table>
 <tr>
 <td width="50%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaamraagul&layout=compact&theme=github_dark&hide_border=true&langs_count=10" width="100%" alt="top languages">
+  <img src="assets/metrics.languages.svg" width="100%" alt="top languages">
 </td>
 <td width="50%">
   <picture>
@@ -205,7 +209,7 @@ flows, and practical tools that move from idea to interface.
 </tr>
 </table>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iaamraagul&theme=github-compact&hide_border=true&bg_color=0D1117&color=39D353&line=39D353&point=FFFFFF&area=true&area_color=39D353" width="100%" alt="GitHub activity graph">
+<img src="assets/metrics.habits.svg" width="92%" alt="coding habits">
 
 <br><br>
 
