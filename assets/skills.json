@@ -1,0 +1,13 @@
+{
+  "title": "Skill Radar",
+  "_comment": "Self-rated values for the profile radar. Edit anytime and run the Charts and cards workflow.",
+  "axes": [
+    { "label": "Python",     "value": 86 },
+    { "label": "JavaScript", "value": 82 },
+    { "label": "TypeScript", "value": 78 },
+    { "label": "React",      "value": 80 },
+    { "label": "Node / API", "value": 74 },
+    { "label": "AI / ML",    "value": 84 },
+    { "label": "Security",   "value": 76 }
+  ]
+}

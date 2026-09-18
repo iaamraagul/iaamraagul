@@ -1,0 +1,21 @@
+{
+  "_comment": "Featured repos, in README order. Star/fork/language come live from the API on every workflow run; descriptions here override repo descriptions for cleaner cards.",
+  "projects": [
+    {
+      "repo": "PHANTOMTRACE-AI",
+      "description": "An AI-powered digital-threat analyzer that turns suspicious inputs into structured security insight."
+    },
+    {
+      "repo": "TrustSphere",
+      "description": "A verification-intelligence dashboard for identity review, threat auditing, and role-based access control."
+    },
+    {
+      "repo": "Tinylink",
+      "description": "A modern short-link dashboard with custom URLs, click tracking, and a clean TypeScript-first stack."
+    },
+    {
+      "repo": "task-manager",
+      "description": "A full-stack task manager with FastAPI, React, authentication, database integration, and a crisp API surface."
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260" role="img" aria-label="3D isometric contribution calendar placeholder">
+  <rect width="900" height="260" rx="16" fill="#0d1117"/>
+  <text x="450" y="106" fill="#39d353" font-family="JetBrains Mono,Consolas,monospace" font-size="24" font-weight="700" text-anchor="middle">contribution calendar</text>
+  <text x="450" y="145" fill="#8b949e" font-family="JetBrains Mono,Consolas,monospace" font-size="15" text-anchor="middle">Run the Metrics workflow to replace this with your live isometric graph.</text>
+  <g transform="translate(238 180)">
+    <rect width="46" height="14" rx="3" fill="#161b22"/>
+    <rect x="58" width="46" height="14" rx="3" fill="#0e4429"/>
+    <rect x="116" width="46" height="14" rx="3" fill="#006d32"/>
+    <rect x="174" width="46" height="14" rx="3" fill="#26a641"/>
+    <rect x="232" width="46" height="14" rx="3" fill="#39d353"/>
+    <rect x="290" width="46" height="14" rx="3" fill="#26a641"/>
+    <rect x="348" width="46" height="14" rx="3" fill="#006d32"/>
+  </g>
+</svg>

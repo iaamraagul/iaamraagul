@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="140" viewBox="0 0 900 140" role="img" aria-label="achievements placeholder">
+  <rect width="900" height="140" rx="16" fill="#0d1117"/>
+  <text x="450" y="55" fill="#39d353" font-family="JetBrains Mono,Consolas,monospace" font-size="22" font-weight="700" text-anchor="middle">achievements loading bay</text>
+  <text x="450" y="91" fill="#8b949e" font-family="JetBrains Mono,Consolas,monospace" font-size="14" text-anchor="middle">Add METRICS_TOKEN and run Metrics to replace this with live badges.</text>
+</svg>

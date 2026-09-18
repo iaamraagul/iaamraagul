@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="165" viewBox="0 0 480 165" role="img" aria-label="most used languages placeholder">
+  <rect width="480" height="165" rx="14" fill="#0d1117"/>
+  <text x="32" y="42" fill="#f0f6fc" font-family="JetBrains Mono,Consolas,monospace" font-size="18" font-weight="700">languages</text>
+  <text x="32" y="73" fill="#8b949e" font-family="JetBrains Mono,Consolas,monospace" font-size="13">Metrics workflow will refresh this card.</text>
+  <rect x="32" y="100" width="145" height="12" rx="6" fill="#39d353"/>
+  <rect x="187" y="100" width="105" height="12" rx="6" fill="#58a6ff"/>
+  <rect x="302" y="100" width="70" height="12" rx="6" fill="#f78166"/>
+  <rect x="382" y="100" width="48" height="12" rx="6" fill="#d2a8ff"/>
+  <text x="32" y="137" fill="#c9d1d9" font-family="JetBrains Mono,Consolas,monospace" font-size="12">Python   TypeScript   JavaScript   Notebooks</text>
+</svg>
