@@ -48,17 +48,18 @@
 $ whoami
 ```
 
-I'm **Raagul N**, a B.Tech graduate in Electronics and Computer Engineering from **Chennai**.
-I enjoy turning complex technical problems into smart, usable, real-world systems.
+I'm **Raagul N**, an entry-level **Machine Learning** and **Full Stack Developer** from
+**Chennai**, with a B.Tech in Electronics and Computer Engineering from SRM Institute of
+Science and Technology.
 
-My strongest work sits at the intersection of **machine learning**, **healthcare technology**,
-**full-stack development**, and **security-minded engineering**. I have built deep learning
-systems for medical image analysis, responsive web applications, dashboards, authentication
-flows, and practical tools that move from idea to interface.
+My work sits at the intersection of **machine learning**, **healthcare AI**,
+**full-stack development**, and **security-minded engineering**. I build deep learning
+workflows, verification dashboards, REST APIs, authentication flows, analytics views, and
+responsive interfaces that move from idea to working product.
 
-- Focused on **AI/ML, full-stack engineering, healthcare tech, and cybersecurity**
-- Experienced with **Python, TensorFlow, React, Node.js, MongoDB, SQL, and Git**
-- Built projects around **retinal disease detection, cancer segmentation, URL systems, task apps, and security analysis**
+- Focused on **AI/ML, full-stack engineering, healthcare AI, and cybersecurity**
+- Experienced with **Python, TensorFlow, React, Angular, Node.js, Express, MongoDB, SQL, PostgreSQL, and Git**
+- Built projects around **diabetic retinopathy detection, verification intelligence, dashboards, authentication, analytics, and security monitoring**
 - Portfolio: **[raagul-portfolio.onrender.com](https://raagul-portfolio.onrender.com/)**
 - Resume: **[download resume.pdf](resume.pdf)**
 
@@ -83,11 +84,11 @@ flows, and practical tools that move from idea to interface.
 
 | area | what I work with |
 |---|---|
-| **AI / ML** | Deep Learning, Computer Vision, Image Processing, NLP, Classification, Regression |
-| **Full Stack** | React, Node.js, Express, FastAPI, REST APIs, Authentication, Responsive UI |
-| **Data** | SQL, MySQL, MongoDB, data preprocessing, validation, cleaning pipelines |
+| **AI / ML** | Deep Learning, CNN, ResNet, TensorFlow, Computer Vision, Image Processing, NLP, Transformers |
+| **Full Stack** | React, Angular, Node.js, Express, FastAPI, REST APIs, JWT Authentication, Responsive UI |
+| **Data** | SQL, MySQL, PostgreSQL, MongoDB, data preprocessing, validation, cleaning pipelines |
 | **Security** | Network security fundamentals, Linux, Kali tools, penetration testing basics |
-| **Engineering** | Git, GitHub, VS Code, AWS basics, browser dev tools, practical debugging |
+| **Engineering** | Git, GitHub, VS Code, AWS basics, Power BI, browser dev tools, practical debugging |
 
 </td>
 <td width="50%" align="center" valign="middle">
@@ -116,6 +117,41 @@ flows, and practical tools that move from idea to interface.
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux">
 
 </div>
+
+---
+
+## `~/` education and credentials
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### education
+
+| program | institution | result |
+|---|---|---|
+| **B.Tech, Electronics and Computer Engineering** | SRM Institute of Science and Technology, Ramapuram | CGPA: 7.47 |
+| **Higher Secondary Education** | Velammal Matriculation Higher Secondary School, Ponneri | 74% |
+| **Secondary Education** | Velammal Matriculation Higher Secondary School, Ponneri | 88% |
+
+</td>
+<td width="50%" valign="top">
+
+### certifications and training
+
+- Python - GUVI
+- PostgreSQL Bootcamp - Udemy
+- Ethical Hacking Tools - GUVI
+- Dark Web - GUVI
+- C Programming - Bharathidasan University
+- IoT using Smart Devices - TVS Training
+- PSpice - Livewire
+- AI Tools Workshop - be10X
+- Full Stack Development Workshop - Novi Tech R&D Pvt Ltd
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -167,10 +203,10 @@ flows, and practical tools that move from idea to interface.
 | project | stack | highlight |
 |---|---|---|
 | **[PHANTOMTRACE-AI](https://github.com/iaamraagul/PHANTOMTRACE-AI)** | `Python` `AI` `Security` | Intelligent threat analysis for digital risk signals |
-| **[TrustSphere](https://github.com/iaamraagul/TrustSphere)** | `TypeScript` `Angular` `Express` | Verification intelligence, RBAC, audit logs, security workflows |
+| **[TrustSphere](https://github.com/iaamraagul/TrustSphere)** | `Angular` `TypeScript` `Express` `MongoDB` | JWT auth, RBAC, fraud monitoring, audit logs, analytics, and real-time notifications |
 | **[Tinylink](https://github.com/iaamraagul/Tinylink)** | `Next.js` `TypeScript` `PostgreSQL` | Custom short links, analytics, and clean dashboard UX |
 | **[task-manager](https://github.com/iaamraagul/task-manager)** | `FastAPI` `React` `Auth` | Full-stack API, authentication, and database integration |
-| **[Diabetic Retinopathy Detection](https://github.com/iaamraagul/Diabetic-Retinopathy-Disease-Detections-Using-Deep-Learning)** | `TensorFlow` `CNN` `Python` | Deep learning diagnosis support from retinal images |
+| **[Diabetic Retinopathy Detection](https://github.com/iaamraagul/Diabetic-Retinopathy-Disease-Detections-Using-Deep-Learning)** | `TensorFlow` `CNN` `ResNet` `Python` | Deep learning screening workflow with preprocessing, augmentation, validation, and model evaluation |
 | **[Cancer Detection](https://github.com/iaamraagul/Cancer-Detection-using-deep-learning-)** | `SegFormer` `Python` `DL` | Transformer-based image segmentation for cancer detection |
 
 ---
