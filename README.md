@@ -210,10 +210,6 @@ responsive interfaces that move from idea to working product.
 </tr>
 </table>
 
-<img src="assets/metrics.habits.svg" width="92%" alt="coding habits">
-
-<br><br>
-
 <img src="assets/metrics.isocalendar.svg" width="92%" alt="isometric contribution calendar">
 
 </div>
