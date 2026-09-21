@@ -29,7 +29,7 @@
 <a href="mailto:nraagul@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 <a href="https://www.linkedin.com/in/iaamraagul/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://github.com/iaamraagul"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="https://raagul-portfolio.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=render&logoColor=white" alt="Portfolio"></a>
+<a href="https://portfolio-azure-tau-91.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
 <a href="resume.pdf"><img src="https://img.shields.io/badge/Download_Resume-39D353?style=for-the-badge&logo=readme&logoColor=black" alt="Download Resume"></a>
 
 </div>
@@ -60,7 +60,7 @@ responsive interfaces that move from idea to working product.
 - Focused on **AI/ML, full-stack engineering, healthcare AI, and cybersecurity**
 - Experienced with **Python, TensorFlow, React, Angular, Node.js, Express, MongoDB, SQL, PostgreSQL, and Git**
 - Built projects around **diabetic retinopathy detection, verification intelligence, dashboards, authentication, analytics, and security monitoring**
-- Portfolio: **[raagul-portfolio.onrender.com](https://raagul-portfolio.onrender.com/)**
+- Portfolio: **[portfolio-azure-tau-91.vercel.app](https://portfolio-azure-tau-91.vercel.app/)**
 - Resume: **[download resume.pdf](resume.pdf)**
 
 </td>
@@ -117,41 +117,6 @@ responsive interfaces that move from idea to working product.
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux">
 
 </div>
-
----
-
-## `~/` education and credentials
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### education
-
-| program | institution | result |
-|---|---|---|
-| **B.Tech, Electronics and Computer Engineering** | SRM Institute of Science and Technology, Ramapuram | CGPA: 7.47 |
-| **Higher Secondary Education** | Velammal Matriculation Higher Secondary School, Ponneri | 74% |
-| **Secondary Education** | Velammal Matriculation Higher Secondary School, Ponneri | 88% |
-
-</td>
-<td width="50%" valign="top">
-
-### certifications and training
-
-- Python - GUVI
-- PostgreSQL Bootcamp - Udemy
-- Ethical Hacking Tools - GUVI
-- Dark Web - GUVI
-- C Programming - Bharathidasan University
-- IoT using Smart Devices - TVS Training
-- PSpice - Livewire
-- AI Tools Workshop - be10X
-- Full Stack Development Workshop - Novi Tech R&D Pvt Ltd
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -306,8 +271,8 @@ responsive interfaces that move from idea to working product.
   </a>
 </td>
 <td align="center" width="25%">
-  <a href="https://raagul-portfolio.onrender.com/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=render&logoColor=white" alt="portfolio">
+  <a href="https://portfolio-azure-tau-91.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio">
   </a>
 </td>
 <td align="center" width="25%">
